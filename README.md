@@ -205,3 +205,5 @@ app.use(cors(corsOptions));
 - Installation du package `escape-html` : `npm i escape-html`
 - Utilisation de la fonction `escape` pour échapper les caractères dangereux dans `/model/pizzas.js`
 
+#   J W T B a c k  
+ 
